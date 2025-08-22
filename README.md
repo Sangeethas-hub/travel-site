@@ -31,7 +31,7 @@ Follow these steps to set up the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/globetrotter-adventures.git
+git clone (https://github.com/Sangeethas-hub/travel-site)
 
 # Navigate to the project folder
 cd globetrotter-adventures
